@@ -10,7 +10,7 @@ Since March 2023 I'm working at [Intesa Sanpaolo S.p.a.](https://group.intesasan
 
 ### Studies 👨🏻‍🎓
 
-In July 2022 I obtained a master's degree in Artificial Intelligence and Informative Systems at Turin's University. I chose this master's degree because I am very interested in AI and ML, and I can't wait to see how it will evolve in the future. In the [Repositories tab](https://github.com/lorenzotabasso?tab=repositories), you will find all my university projects (with also mine personal projects).
+In July 2022 I obtained a **master's degree in Artificial Intelligence and Informative Systems** at Turin's University. I chose this master's degree because **I am very interested in AI and ML**, and I can't wait to see how it will evolve in the future. In the [Repositories tab](https://github.com/lorenzotabasso?tab=repositories), you will find **all my personal and university projects on which I worked**.
 
 ### Technologies and Tools 🧰
 
