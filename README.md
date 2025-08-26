@@ -46,6 +46,7 @@ In July 2022 I obtained a **master's degree in Artificial Intelligence and Infor
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 
 #### Tools 🛠
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
