@@ -6,11 +6,11 @@ I'm **Lorenzo Tabasso**, **Software Engineer** from Turin, a big city in the nor
 
 ### Work 💻
 
-Since March 2023 I'm working at [Intesa Sanpaolo S.p.a.](https://group.intesasanpaolo.com/en/) as a Software Engineer (primary focused on Front-end solutions). In my role, I managed a variety of projects, from evolving CMS functionalities for the Contact Center to maintaining and enhancing foundational architectural libraries. Currently, I am part of the team responsible for the maintenance and innovation of the internet banking platform for both private and business customers. You can find my complete work experience on [LinkedIn](https://www.linkedin.com/in/lorenzo-tabasso).
+In 2019 I started working as Junior Application Developer at [Alten Italy](https://www.alten.it/), a IT consulting company, and then, since March 2023 I'm working at **[Intesa Sanpaolo S.p.a.](https://group.intesasanpaolo.com/en/)** as a **Software Engineer** (primary focused on **Front-end solutions**). In my current role, I managed a variety of projects, from evolving CMS functionalities for the Contact Center to maintaining and enhancing foundational architectural libraries. Currently, I am part of the team responsible for the maintenance and innovation of the internet banking platform for both private and business customers. You can find my complete work experience on [LinkedIn](https://www.linkedin.com/in/lorenzo-tabasso).
 
 ### Studies 👨🏻‍🎓
 
-In July 2022 I obtained a **master's degree in Artificial Intelligence and Informative Systems** at Turin's University. I chose this master's degree because **I am very interested in AI and ML**, and I can't wait to see how it will evolve in the future. In the [Repositories tab](https://github.com/lorenzotabasso?tab=repositories), you will find **all my personal and university projects on which I worked**.
+In July 2019 I obtained a **bachelor's degree in Computer Science** and three years later, in July 2022 I obtained a **master's degree in Artificial Intelligence and Informative Systems**, both at Turin's University. I chose this master's degree because **I am very interested in AI and ML**, and I can't wait to see how it will evolve in the future. In the [Repositories tab](https://github.com/lorenzotabasso?tab=repositories), you will find **all my personal and university projects on which I worked**.
 
 ### Technologies and Tools 🧰
 
