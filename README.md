@@ -1,12 +1,16 @@
 ## Hi there 👋
 
-I'm **Lorenzo Tabasso**, **Software Engineer** from Turin, a big city in the northen Italy. I'm italian but fluent in English, and I'm always ready to learn and open to challenge, in order to improve my work and myself.  If you want to get in touch with me, you can DM me on [LinkedIn](https://www.linkedin.com/in/lorenzo-tabasso).
 
-### About my work 💻
+
+![Hello There GIF - From the Star Wars Saga](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGY1aXcyNWNuemVkM24zaDJnc3ZwdHljbm9jbXp5bWJ5emhmd3p4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornk57KwDXf81rjWM/giphy.gif)
+
+I'm **Lorenzo Tabasso**, **Software Engineer** from Turin, a big city in the northen Italy. I'm italian but fluent in English, and I'm always ready to learn and open to challenge, in order to improve my work and myself.  If you want get in touch with me, you can DM me on [LinkedIn](https://www.linkedin.com/in/lorenzo-tabasso).
+
+### Work 💻
 
 Since March 2023 I'm working at [Intesa Sanpaolo S.p.a.](https://group.intesasanpaolo.com/en/) as a Software Engineer (primary focused on Front-end solutions). In my role, I managed a variety of projects, from evolving CMS functionalities for the Contact Center to maintaining and enhancing foundational architectural libraries. Currently, I am part of the team responsible for the maintenance and innovation of the internet banking platform for both private and business customers. You can find my complete work experience on [LinkedIn](https://www.linkedin.com/in/lorenzo-tabasso).
 
-### About my studies 👨🏻‍🎓
+### Studies 👨🏻‍🎓
 
 In July 2022 I obtained a master's degree in Artificial Intelligence and Informative Systems at Turin's University. I chose this master's degree because I am very interested in AI and ML, and I can't wait to see how it will evolve in the future. In the [Repositories tab](https://github.com/lorenzotabasso?tab=repositories), you will find all my university projects (with also mine personal projects).
 
